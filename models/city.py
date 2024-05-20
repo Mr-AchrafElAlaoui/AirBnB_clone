@@ -1,9 +1,10 @@
 #!/usr/bin/python3
-"""Documenting the user model"""
+"""Module for City class."""
+
 from models.base_model import BaseModel
 
 
 class City(BaseModel):
-    """The city class"""
-    name = ""
+    """Class representing a City."""
     state_id = ""
+    name = ""

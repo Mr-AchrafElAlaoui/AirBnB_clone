@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-"""Documenting the user model"""
+"""Module for State class."""
+
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """The state class"""
+    """Class representing a State."""
     name = ""

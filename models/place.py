@@ -1,10 +1,11 @@
 #!/usr/bin/python3
-"""Documenting the user model"""
+"""Module for Place class."""
+
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """The place class"""
+    """Class representing a Place."""
     city_id = ""
     user_id = ""
     name = ""

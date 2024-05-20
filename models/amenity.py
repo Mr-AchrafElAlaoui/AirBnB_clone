@@ -1,10 +1,9 @@
 #!/usr/bin/python3
-"""Documenting the user model"""
+"""Module for Amenity class."""
+
 from models.base_model import BaseModel
 
 
 class Amenity(BaseModel):
-    """
-    The amenity class
-    """
+    """Class representing a Amenity."""
     name = ""

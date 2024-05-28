@@ -12,6 +12,4 @@ This is a specifuc use-case Shell scripting tool that will enable us to:
 
 
 
-## Authors
-* **Nduka-aku Oluchi Rejoice** <[Nduka-aku Oluchi](https://github.com/Lisky-pixel)> <o.ndukaku@alustudent.com>
 
